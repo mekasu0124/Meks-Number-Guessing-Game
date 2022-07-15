@@ -125,29 +125,3 @@
         </li>
     </ol>
 </p>
-<h1>In Addition To</h1>
-<p>
-    In Absence Of A License For This Repository, I Am Writing My Own As Displayed Below. This Policy Is Subject To Change At Anytime And It Is Your Responsiblity To Keep Up With Said Changes, If Any.
-    <ol>
-        <li>You May
-            <ul>
-                <li>
-                    You May Change The Range Of Which The Computers Randomly Chosen Winning Number To Which Ever Range You Like.
-                </li>
-                <li>
-                    You May Change The Welcome Strings On Lines 12-17 In The List Array Belonging To <code>information = [. . .]</code> To Anything Of Your Choosing, But Are Not Allowed To Remove "Mek's Number Guessing Game", Edit "Mek's Number Guessing Game", or Add To "Mek's Number Guessing Game".
-                </li>
-                <li>
-                    You May Create A Fork To The Repository In Attempts To Contribute To Mek's Number Guessing Game To Improve The Game As A Whole.
-                </li>
-            </ul>
-        <li>
-        <li>You May Not
-            <ul>
-                <li>
-                    You May Not Add To, Change Of, Edit To Add or Remove Any Part Of "Mek's Number Guessing Game" Within Any Source Code, or Titles Within Any Files Inside Of or Belonging To Mek's Number Guessing Game.
-                </li>
-            </ul>
-        </li>
-    </ol>
-</p>
